@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Hi I am Santi
+#### Passionate Frontend Developer with a heavy focus on the users of my creations
+![I a passionate Front End Developer with a heavy focus on the users of my creations.
 
-<!--
-**thir13en/thir13en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in crafting products in many different environments, as a solo soldier, as a team member, bootstrapping projects from scratch or adding new features to big consolidated products.
 
-Here are some ideas to get you started:
+I understand, I do and I ship 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Angular, React, Typescript, Node, Firebase, PostgreSQL and many other Pokemons
+
+🔭 I’m currently working on i2CAT  
+🌱 I’m currently learning deep Angular and Typescript, also D3  
+👯 I’m looking to collaborate on data visualization projects  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thir13en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](santiloopz.com)  
+
