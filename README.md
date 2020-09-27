@@ -7,7 +7,7 @@ I understand, I do and I ship
 
 Skills: Angular, React, Typescript, Node, Firebase, PostgreSQL and many other Pokemons
 
-🔭 I’m currently working on i2CAT  
+🔭 I’m currently working @ Dynatrace  
 🌱 I’m currently learning deep Angular and Typescript, also D3 and into my first Java babysteps.  
 👯 I’m looking to collaborate on data visualization projects  
 
