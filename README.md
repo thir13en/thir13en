@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi I am Santi
-#### Passionate Frontend Developer with a heavy focus on the users of my creations
+#### Passionate Fullstack Developer with a heavy focus on the users of my creations
 
 I have experience in crafting products in many different environments, as a solo soldier, as a team member, bootstrapping projects from scratch or adding new features to big consolidated products.
 
