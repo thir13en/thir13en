@@ -5,10 +5,10 @@ I have experience in crafting products in many different environments, as a solo
 
 I understand, I do and I ship 
 
-Skills: Angular, React, Typescript, Node, Firebase, PostgreSQL and many other Pokemons
+Skills: Typescript, React, Angular, Node, Firebase, PostgreSQL and many other Pokemons
 
 🔭 I’m currently working @ Dynatrace  
-🌱 I’m currently learning deep Angular and Typescript, also D3 and into my first Java babysteps.  
+🌱 I’m currently diving deep into React, Typescript and Kotlin!  
 👯 I’m looking to collaborate on data visualization projects  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thir13en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://santiloopz.com)  
